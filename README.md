@@ -114,11 +114,11 @@ BASIC ARSENAL 1.0: Basic pentesting tools for your favorite debian linux distrib
                                                                              *%&&%%%&&%%(*.                                                                    
                                                                              *////////**,.                                                                     
                                                                                  _   __   ___  
-     /\                             | | /_ | / _ \ 
-    /  \   _ __ ___  ___ _ __   __ _| |  | || | | |
-   / /\ \ | '__/ __|/ _ \ '_ \ / _` | |  | || | | |
-  / ____ \| |  \__ \  __/ | | | (_| | |  | || |_| |
- /_/    \_\_|  |___/\___|_| |_|\__,_|_|  |_(_)___/ 
+                                                 /\                             | | /_ | / _ \ 
+                                                /  \   _ __ ___  ___ _ __   __ _| |  | || | | |
+                                               / /\ \ | '__/ __|/ _ \ '_ \ / _` | |  | || | | |
+                                              / ____ \| |  \__ \  __/ | | | (_| | |  | || |_| |
+                                             /_/    \_\_|  |___/\___|_| |_|\__,_|_|  |_(_)___/ 
                                                    
  
  Basic arsenal tools 1.0 intends to be a bash script with the purpose of installing a couple of basic pentesting tools in your debian linux system. This for the people that are not familiarized 
